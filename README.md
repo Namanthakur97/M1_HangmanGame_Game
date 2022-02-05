@@ -1,2 +1,2 @@
-# M1_HangmanGame_Game
-Repository for creating a hangman game in C 
+# M1_TicTacToeGame_Game
+Repository for creating a Tic Tac Toe game in C.
