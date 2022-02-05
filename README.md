@@ -1,2 +1,2 @@
-# M1_TicTacToe_Game
+# M1_HangmanGame_Game
 Repository for creating a hangman game in C 
