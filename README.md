@@ -6,10 +6,11 @@ Repository for creating a Hangman game in C.
 # Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5490530f008141ca8e6666fa306d006d)](https://www.codacy.com/gh/Namanthakur97/M1_HangmanGame_Game/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Namanthakur97/M1_HangmanGame_Game&amp;utm_campaign=Badge_Grade)
 
-# Codiga 
+# Codiga Badge
 https://api.codiga.io/project/31003/score/svg
+
+https://api.codiga.io/project/31003/status/svg
 
 
 # Codiga Screenshot
-
 ![Codiga](https://user-images.githubusercontent.com/88279906/153542262-85bc048d-e4fa-41a7-ae3f-b16607a3705a.jpg)
