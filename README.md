@@ -8,7 +8,7 @@ Repository for creating a Hangman game in C.
 
 # Codiga 
 https://api.codiga.io/project/31003/score/svg
-https://api.codiga.io/project/31003/status/svg
+
 
 # Codiga Screenshot
 
