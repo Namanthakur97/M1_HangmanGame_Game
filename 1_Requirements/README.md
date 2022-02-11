@@ -24,25 +24,25 @@ Thus the user wins if he cаn guess the word or else he is а loser. In this pro
 
 # 5W's AND 1H
 
-**WHAT**
+# WHAT
 1. Hangman Game
 2. Fun Game of Guessing words
 
-**WHY**
+# WHY
 1. To make boring time fun
 2. To do something when you are bored
 
-**WHEN**
+# WHEN
 1. When you stuck somewhere and want to relax
 2. Get new words evertime you play
 
-**WHERE**
+# WHERE
 1. On your personal laptops, computers
 
-**WHO**
+# WHO
 1. This game can be used by anyone as it is made just for fun and anyone can play it in free time
 
-**HOW**
+# HOW
 1. Using C programming
 2. Using Visual Studio Code and WSL
 3. User have to guess words and can have maximum of 6 mistakes
