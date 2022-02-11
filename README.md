@@ -7,3 +7,6 @@ Hangman is a quick and easy game for at least two people that requires nothing m
 
 # Codiga 
 https://app.codiga.io/project/31003/dashboard
+
+# Codiga Screenshot
+Screenshot 2022-02-11 10582
