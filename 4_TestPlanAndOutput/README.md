@@ -11,7 +11,7 @@ For this particular game, there will not be any specific test case except that, 
 5. Check if the code is working properly or not.
 
 |    TEST                 |      RESULT              |
-------------------------------------------------------
+|:-----------------------:|:------------------------:|
 |  Header Files           |     Working              |
 |  Attempts total 6       |     Working              |
 |  No Repeated Words      |     Working              |
