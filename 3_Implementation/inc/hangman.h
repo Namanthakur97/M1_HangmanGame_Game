@@ -1,7 +1,7 @@
 /**
  * @file hangman.c
  * @author Naman Thakur (namanthakur97@gmail.com)
- * @brief Hangman Game
+ * @brief Hangman Game in C
  * @date 2022-02-11
  * 
  * @copyright Copyright (c) 2022
