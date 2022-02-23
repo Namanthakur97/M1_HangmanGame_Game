@@ -1,13 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdbool.h>
-#include <time.h>
-#include <string.h> 
+#include"hangman.h";
 
-#define WORDS 10
-#define WORDLEN 40
-#define CHANCE 6
- 
+
 bool srand_called = false;
  
 int i_rnd(int i) {

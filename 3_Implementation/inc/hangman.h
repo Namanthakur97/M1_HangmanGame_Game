@@ -16,3 +16,7 @@
 #define WORDS 10
 #define WORDLEN 40
 #define CHANCE 6
+
+
+void printBody(int, char*);
+void printWord(char*, int);
